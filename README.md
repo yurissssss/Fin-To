@@ -1,4 +1,4 @@
-## FinTo 💙
+## FinTo
 
 ### 외국인을 위한 금융 멘토링 플랫폼
 
@@ -11,7 +11,7 @@ Fin(끝)에서 To(새로운 시작)로 향하는 여정이라는 의미를 담�
 <img width="2666" height="1500" alt="image1" src="https://github.com/user-attachments/assets/4d314720-832d-4233-91ea-83764380c8d2" />
 <br/>
 
-### 💡 프로젝트 소개
+### 프로젝트 소개
 
 재한 외국인이 증가하면서 국내에서의 금융 활동 역시 확대되고 있지만,
 언어 장벽과 낯선 금융 환경으로 인해 금융 서비스를 이용하는 데 어려움을 겪을 수 있습니다.
@@ -23,7 +23,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 
 <br/>
 
-### ✨ 주요 기능
+### 주요 기능
 
 #### 1. 멘토 검색 및 탐색
 
@@ -72,7 +72,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 
 <br/>
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Frontend
 
@@ -91,7 +91,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 
 <br/>
 
-### 👩‍💻 담당 기능
+### 담당 기능
 
 #### Frontend
 
@@ -115,7 +115,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 - 페이지 변경에 따른 목록 데이터 갱신
 <br/>
 
-### 📌 개발 과정
+### 개발 과정
 
 #### 제한된 시간 안에서 핵심 기능 우선 구현
 
@@ -131,7 +131,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 
 <br/>
 
-### 🗂 Project Structure
+### Project Structure
 
 ```text
 src/
@@ -166,7 +166,7 @@ src/
 
 <br/>
 
-### 🏆 Project Result
+### Project Result
 
 **2박 3일 해커톤 장려상**
 
@@ -175,7 +175,7 @@ src/
 
 <br/>
 
-### 👥 Team
+### Team
 
 | Role | Responsibilities |
 | --- | --- |
@@ -184,7 +184,7 @@ src/
 
 <br/>
 
-### 🚀 Getting Started
+### Getting Started
 
 ```bash
 # Repository clone
