@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+@config "../tailwind.config.js";
+
+@theme {
+  --color-primary: #0033ff;
+  --color-primary-light: #99adff;
+  --color-primary-lighter: #c2ceff;
+  --color-error: #d43c3c;
+  --color-secondary: #e0ff4f;
+
+  --color-neutral-50: #fafafa;
+  --color-neutral-100: #f5f5f5;
+  --color-neutral-200: #e5e5e5;
+  --color-neutral-300: #d4d4d4;
+  --color-neutral-500: #737373;
+  --color-neutral-700: #404040;
+  --color-neutral-900: #171717;
+}

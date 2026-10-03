@@ -1,0 +1,11 @@
+services:
+  app:
+    image: gyehyunbak/finto:latest
+    container_name: app
+    ports:
+      - "8080:8080"
+    volumes:
+      # EC2 홈 디렉토리에 있는 application.properties를 컨테이너 내부에 마운트
+      - ./application.properties:/app/config/application.properties
+    command: [ "--spring.config.location=/app/config/application.properties" ]
+    restart: always
