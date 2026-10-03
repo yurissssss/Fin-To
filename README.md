@@ -5,13 +5,14 @@
 FinTo는 한국에서 생활하는 외국인이 금융 정보를 보다 쉽게 이해하고,
 자신에게 맞는 멘토와 연결되어 금융 관련 도움을 받을 수 있도록 만든 금융 멘토링 서비스입니다.
 
-Financial Mentoring의 의미와 함께,
-Fin(끝)에서 To(새로운 시작)로 향하는 여정이라는 의미를 담고 있습니다.
+**Financial Mentoring**의 의미와 함께,
+**Fin(끝)** 에서 **To(새로운 시작)** 로 향하는 여정이라는 의미를 담고 있습니다.
 
-<img width="2666" height="1500" alt="image1" src="https://github.com/user-attachments/assets/4d314720-832d-4233-91ea-83764380c8d2" />
-<br/>
+<img width="2666" height="1500" alt="finto(드래그함)" src="https://github.com/user-attachments/assets/3f200167-fc4f-488f-b0dc-46bc8a690a6f" />
+
 
 ### 프로젝트 소개
+---
 
 재한 외국인이 증가하면서 국내에서의 금융 활동 역시 확대되고 있지만,
 언어 장벽과 낯선 금융 환경으로 인해 금융 서비스를 이용하는 데 어려움을 겪을 수 있습니다.
@@ -24,6 +25,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 <br/>
 
 ### 주요 기능
+---
 
 #### 1. 멘토 검색 및 탐색
 
@@ -34,7 +36,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 * 멘토 프로필 및 평점 확인
 * 페이지네이션을 통한 멘토 목록 탐색
 
-<img width="2666" height="1500" alt="image2" src="https://github.com/user-attachments/assets/514cf0b1-698f-449c-8c23-e71455b57f35" />
+<img width="2666" height="1500" alt="image2" src="https://github.com/user-attachments/assets/493e1819-9204-469c-9d72-2c496d59c2e9" />
 <br/>
 
 #### 2. 멘토 상세 정보 및 리뷰
@@ -54,7 +56,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 사용자가 선택한 멘토와 직접 소통하며 금융 관련 궁금증을 해결할 수 있도록
 1:1 멘토링 경험을 제공합니다.
 
-<img width="2666" height="1500" alt="image3" src="https://github.com/user-attachments/assets/072d264a-bb01-419e-9b1a-dd0b6c903b6a" />
+<img width="2666" height="1500" alt="image3" src="https://github.com/user-attachments/assets/0694c705-315e-49b2-8c67-3ea2542e0ae0" />
 
 <br/>
 
@@ -68,11 +70,12 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 * 자기소개 작성
 * 약관 동의 및 멘토 신청
 
-<img width="2666" height="1500" alt="image" src="https://github.com/user-attachments/assets/de7f0c09-9a0b-4373-90aa-89a798e71556" />
+<img width="2666" height="1500" alt="image4" src="https://github.com/user-attachments/assets/908a1379-9067-4442-add0-ae4e3811bc8a" />
 
 <br/>
 
 ### Tech Stack
+---
 
 #### Frontend
 
@@ -92,6 +95,7 @@ FinTo는 이러한 문제에 주목해 외국인과 금융 멘토를 연결하�
 <br/>
 
 ### 담당 기능
+---
 
 #### Frontend
 
